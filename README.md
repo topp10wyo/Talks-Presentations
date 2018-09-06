@@ -1,12 +1,9 @@
-# Talks-Presentations
-Here you will find all the material from previous \ coming presentations
-
-# DBA Mastery
+# DBA Mastery - Talk \ presentations
 
 [![N|Solid](http://dbamastery.com/wp-content/uploads/2018/08/database-2.png)](http://dbamastery.com/)
 Just another witchcraft and wizardry site and DBA tips …
 
-Welcome to my GitHub repository, here you will find all source code of my previous and future contributions made through my [blog] as:
+Welcome to my GitHub repository, here you will find all the material from previous \ coming presentations presented during SQL Server user groups, SQL Saturday or any other SQL Server event.
 
 - MSDB tuning  
 - MAXDOP calculator
