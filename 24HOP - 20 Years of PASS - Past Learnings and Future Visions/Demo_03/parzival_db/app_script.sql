@@ -1,0 +1,6 @@
+CREATE TABLE DUMMY
+(value tinyint)
+GO
+
+INSERT INTO DUMMY (value) VALUES (1)
+GO
